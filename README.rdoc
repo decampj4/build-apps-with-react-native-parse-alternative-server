@@ -3,7 +3,7 @@
 This repository contains a Ruby on Rails application that was designed to take the place of the parse server in Stephen Grider's "Build Apps with React Native"
 Udemy lesson, which can be found here[https://www.udemy.com/reactnative/learn/#/]. This repo is solely meant to help shore up the gap left by Parse.
 
-Things come:
+Things to come:
 
 * Deployment and setup instructions including MySQL, rbenv, and bundler installs
 
